@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components BlogPost Рендериться без сбоев 1`] = `
+<a
+  className="post"
+  href="/blog/common/2019-04-18-autoteka"
+>
+  <div
+    className="img"
+  >
+    <div
+      className="lazyload-placeholder"
+      style={
+        Object {
+          "height": 127,
+        }
+      }
+    />
+  </div>
+  <div
+    className="fx content"
+  >
+    <div
+      className="content_title"
+    >
+      Всем выйти из тени!
+    </div>
+    <div
+      className="content_text"
+    >
+      Продажа машины в современном мире — это уже давно рутина, бизнес. Вот только конкуренция в нём такая, что ради лишней копейки продавцы зачастую и пробег скрутят, и склеивают одно авто из трех.
+    </div>
+    <div
+      className="fx content_footer"
+    >
+      <div
+        className="content_footer__data"
+      >
+        18.04.2019
+      </div>
+      <button
+        className="footer__tag content_footer__tag"
+        onClick={[Function]}
+      >
+        Общее
+      </button>
+    </div>
+  </div>
+</a>
+`;
+
+exports[`Components BlogPost Рендериться без сбоев 2`] = `
+<a
+  className="post"
+  href="/blog/common/2019-04-18-autoteka"
+>
+  <div
+    className="img"
+  >
+    <div
+      className="lazyload-placeholder"
+      style={
+        Object {
+          "height": 127,
+        }
+      }
+    />
+  </div>
+  <div
+    className="fx content"
+  >
+    <div
+      className="content_title"
+    >
+      Всем выйти из тени!
+    </div>
+    <div
+      className="content_text"
+    >
+      Продажа машины в современном мире — это уже давно рутина, бизнес. Вот только конкуренция в нём такая, что ради лишней копейки продавцы зачастую и пробег скрутят, и склеивают одно авто из трех.
+    </div>
+    <div
+      className="fx content_footer"
+    >
+      <div
+        className="content_footer__data"
+      >
+        18.04.2019
+      </div>
+      <button
+        className="footer__tag content_footer__tag"
+        onClick={[Function]}
+      >
+        Общее
+      </button>
+    </div>
+  </div>
+</a>
+`;

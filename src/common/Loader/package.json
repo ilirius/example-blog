@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "name": "common-loader",
+  "main": "./index.js"
+}
